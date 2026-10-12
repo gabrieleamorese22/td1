@@ -5,3 +5,4 @@ y <- 10
 
 somma <- x + y
 print(somma)
+prodotto <- x*y
